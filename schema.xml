@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="apps.specto" path="/apps/specto/">
+        <key type="b" name="new world order">
+            <default>false</default>
+            <summary>My boolean setting</summary>
+            <description>This is an example of a boolean setting.</description>
+        </key>
+    </schema>
+</schemalist>

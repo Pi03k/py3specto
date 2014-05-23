@@ -1,0 +1,9 @@
+[Desktop Entry]
+_Name=Specto
+_Comment=Be notified of everything
+Categories=GTK;GNOME;Utility;
+Exec=specto
+Icon=specto
+StartupNotify=true
+Terminal=false
+Type=Application
